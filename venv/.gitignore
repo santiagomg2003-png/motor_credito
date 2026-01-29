@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Entorno
+.env
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
